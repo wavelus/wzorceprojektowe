@@ -1,4 +1,4 @@
-# Budowniczy (Builder)
+# Fabryka abstrakcyjna (Abstract factory)
 
 ## Opis
 
