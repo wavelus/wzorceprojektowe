@@ -2,9 +2,9 @@
 
 ## Spis treści
 
-### Wzorce kreacyjne (konstrukcyjne, creational design patterns)
+### Wzorce kreacyjne 
 
-Opisują elastyczne sposoby tworzenia obiektów. Uniezależniają system od sposobu tworzenia obektów.
+Inne nazwy: konstrukcyjne, creational design patterns. Opisują elastyczne sposoby tworzenia obiektów. Uniezależniają system od sposobu tworzenia obektów.
 
 #### [Fabryka abstrakcyjna (Abstract factory)](designpattern/abstractfactory/info.md)
 
@@ -12,13 +12,13 @@ Opisują elastyczne sposoby tworzenia obiektów. Uniezależniają system od spos
 
 #### [Singleton](designpattern/singleton/info.md)
 
-### Wzorce strukturalne (structural design patterns)
+### Wzorce strukturalne
 
-Opisują sposob konstrukcji struktur obiektowych. Korzystają z dziedziczenia i delegacji.
+Inna nazwa: structural design patterns. Opisują sposob konstrukcji struktur obiektowych. Korzystają z dziedziczenia i delegacji.
 
-### Wzorce behawioralne (czynnościowe, behavioral design patterns)
+### Wzorce behawioralne
 
-Opisują algorytmy i przydział odpowiedzialności. Charakteryzują sposob interakcji między obiektami.
+Inne nazwy: czynnościowe, behavioral design patterns. Opisują algorytmy i przydział odpowiedzialności. Charakteryzują sposob interakcji między obiektami.
 
 ## Informacje
 
