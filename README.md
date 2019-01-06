@@ -2,7 +2,9 @@
 
 ## Spis treści
 
-### Wzorce kreacyjne
+### Wzorce kreacyjne (konstrukcyjne, creational design patterns)
+
+Opisują elastyczne sposoby tworzenia obiektów. Uniezależniają system od sposobu tworzenia obektów.
 
 #### [Fabryka abstrakcyjna (Abstract factory)](designpattern/abstractfactory/info.md)
 
@@ -10,9 +12,13 @@
 
 #### [Singleton](designpattern/singleton/info.md)
 
-### Wzorce strukturalne
+### Wzorce strukturalne (structural design patterns)
 
-### Wzorce czynnościowe
+Opisują sposob konstrukcji struktur obiektowych. Korzystają z dziedziczenia i delegacji.
+
+### Wzorce behawioralne (czynnościowe, behavioral design patterns)
+
+Opisują algorytmy i przydział odpowiedzialności. Charakteryzują sposob interakcji między obiektami.
 
 ## Informacje
 
@@ -29,3 +35,6 @@ Projekt skupia się na możliwie krótkim i kompletnym opisaniu wybranych wzorc�
 - [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 - [lukasz-socha.pl](https://lukasz-socha.pl/php/wzorce-projektowe-spis-tresci/)
 - [kobietydokodu.pl](https://kobietydokodu.pl/21-wzorce-projektowe/)
+- [edu.pjwstk.edu.pl](http://edu.pjwstk.edu.pl/wyklady/zap/scb/W5/W5.htm)
+- [algorytm.org](http://www.algorytm.org/wzorce-projektowe/)
+- [open.agh.edu.pl](http://zasoby.open.agh.edu.pl/~09sbfraczek/wzorce-projektowe-wstep%2C1%2C57.html)
