@@ -6,7 +6,7 @@ Metoda wytwórcza to kreacyjny wzorzec projektowy, który udostępnia nam interf
 
 ## Zastosowanie
 
-### Przykładowy problem do rozwiązania [Wikipedia]
+### Przykładowy problem do rozwiązania
 
 Tworzysz aplikację do zarządzania logistyką. Początkowo założyłeś iż jedynym obsługiwanym środkiem transportu będzie transport lądowy - ciężarówkami. Większość kodu, obsługującego znajduje się w klasie ``Ciężarówka``. Pewnego dnia postanawiasz dodać do programu obsługę logistyki morskiej - statkami, do swojej aplikacji.
 
