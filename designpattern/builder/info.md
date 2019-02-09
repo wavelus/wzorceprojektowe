@@ -2,8 +2,16 @@
 
 ## Opis
 
-## Częste zastosowania
 
-## Zalety
 
-## Wady
+## Zastosowanie
+
+### Kiedy zastosujemy wzorzec?
+
+### Zalety
+
+## Podobne wzorce
+
+## Diagramy UML
+
+## Kod źródłowy
